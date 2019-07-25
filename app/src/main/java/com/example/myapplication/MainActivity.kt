@@ -25,6 +25,13 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(Intent.ACTION_VIEW, uri)
             startActivity(intent)
         }
+        // add 3 buttons to:
+
+        // open email client and set recipient email, subject, body
+
+        // open an activity and set the title
+
+        // open an activity with a list of currencies, and return the selected currency
 
     }
 }
